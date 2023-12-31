@@ -87,8 +87,6 @@ pip install pyqt5-tools
 
 ##### 4. 安装PaddleSeg
 
-用户需自行从Paddle官网下载[PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)的开发包并存放在当前项目根目录下
-
 ```sh
 cd PaddleSeg
 pip install -r requirements.txt
