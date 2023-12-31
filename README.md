@@ -2,22 +2,10 @@
 
 ## 项目简介
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
-    <h4 class="artistic-font">人像抠图</h4>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <h4 class="artistic-font">证件照制作</h4>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <h4 class="artistic-font">更换背景</h4>
-  </div>
-</div>  
-<div style="display: flex;">
-    <img src="./res/app_sketch_cutout.png" style="width: 33%;">
-    <img src="./res/app_sketch_blue.png" style="width: 33%;">
-    <img src="./res/app_sketch_bg.png" style="width: 33%;">
-</div>
+|                     人像抠图                      |                   证件照制作                    |                   更换背景                    |
+| :-----------------------------------------------: | :---------------------------------------------: | :-------------------------------------------: |
+| ![](../Portrait_cutout/res/app_sketch_cutout.png) | ![](../Portrait_cutout/res/app_sketch_blue.png) | ![](../Portrait_cutout/res/app_sketch_bg.png) |
+
 ## 项目依赖
 
 
