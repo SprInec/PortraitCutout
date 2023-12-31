@@ -87,6 +87,8 @@ pip install pyqt5-tools
 
 ##### 4. 安装PaddleSeg
 
+用户需自行从Paddle官网下载[PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)的开发包并存放在当前项目根目录下
+
 ```sh
 cd PaddleSeg
 pip install -r requirements.txt
@@ -186,6 +188,6 @@ python tools/bg_replace.py --config configs/ppmattingv2/ppmattingv2-stdc1-human_
 
 [PaddleSeg/Matting at release/2.9 · PaddlePaddle/PaddleSeg (github.com)](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.9/Matting)
 
-[Qt designer界面和所有组件功能的详细介绍（全！！！）-CSDN博客](https://blog.csdn.net/qq_43811536/article/details/135186862#:~:text=Widget Box（部件盒） ：Widget Box位于Qt Designer界面的左侧，它提供了各种可用的窗口部件（widgets）。,可以从Widget Box中拖放这些部件到主界面编辑区域，以构建GUI界面。 Widget Box中的部件包括 按钮、标签、文本框、下拉列表 等。)
+[Qt designer界面和所有组件功能的详细介绍（全！！！）-CSDN博客](https://blog.csdn.net/qq_43811536/article/details/135186862)
 
 [PyQt5(一) PyQt5安装及配置，从文件夹读取图片并显示，模拟生成素描图像_pyqt5读取图片-CSDN博客](https://blog.csdn.net/m0_47682721/article/details/123928585)
