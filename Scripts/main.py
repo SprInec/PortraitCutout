@@ -21,6 +21,7 @@ from PyQt5 import QtCore
 import backend
 
 if __name__ == '__main__':
+    QtCore.QCoreApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)
     app = QApplication(sys.argv)
     MainWindow = QMainWindow()
     MainWindow.setWindowIcon(QIcon('./icon.png'))
